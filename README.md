@@ -16,9 +16,7 @@ This project focuses on **UI behavior, smooth transitions, and responsive design
 ## 🌐 Live Demo  
 
 🚀 View the live demo here:  
-🔗 https://<your-github-username>.github.io/<your-repository-name>/
-
-*(Hosted using GitHub Pages)*
+🔗(https://hemaxplore.github.io/Image-Slider/)
 
 ---
 
